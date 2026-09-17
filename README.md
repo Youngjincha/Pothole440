@@ -21,7 +21,7 @@
 
 ## Overview
 
-**Pothole-440-Dataset** is a high-quality, curated collection of 440 (1200×800) images capturing diverse pothole scenarios on urban roads. Designed for advanced computer vision research, this dataset supports tasks such as pothole detection, segmentation, and road surface analysis.
+The **Pothole440** Dataset comprises 440 diverse pothole cases developed for simultaneous pixel-wise pothole segmentation and depth prediction from monocular images using 3DPredicNet or other advanced deep learning networks. The dataset contains 440 RGB images divided into training, validation, and test sets. Each RGB image input is accompanied by a corresponding pixel-wise segmentation label and a ground-truth depth map acquired using a high-definition 3D scanner. Further details about the dataset are provided in Ali, R., Saeed, Q. B., Buyukozturk, O., Lee, S., and Cha, Y. (2026), “Monocular Computer Vision-Based Simultaneous Pothole Segmentation and 3-D Volume Prediction Using 3DpredicNet,” IEEE Transactions on Industrial Informatics. **DOI: 10.1109/TII.2026.3706348**
 
 ---
 
