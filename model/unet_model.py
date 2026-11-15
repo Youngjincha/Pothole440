@@ -1,3 +1,6 @@
+## Authors: Rahmat Ali; Qasim Bin Saeed; Oral Buyukozturk; SangHyun Lee; YoungJin Cha
+
+
 """ Full assembly of the parts to form the complete network """
 
 from .unet_parts import *
