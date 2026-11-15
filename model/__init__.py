@@ -1,3 +1,5 @@
+## Authors: Rahmat Ali; Qasim Bin Saeed; Oral Buyukozturk; SangHyun Lee; YoungJin Cha
+
 from .unet_model import UNet
 from .model_mask import NET
 from .SwinTransformerSys import SwinTransformerSys
