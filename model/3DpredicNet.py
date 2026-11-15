@@ -1,4 +1,5 @@
 # lines for winodows OS
+## Authors: Rahmat Ali; Qasim Bin Saeed; Oral Buyukozturk; SangHyun Lee; YoungJin Cha
 import os
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 ### remove above 2 lines for linux OS
