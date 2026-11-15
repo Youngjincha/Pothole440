@@ -1,3 +1,6 @@
+## Authors: Rahmat Ali; Qasim Bin Saeed; Oral Buyukozturk; SangHyun Lee; YoungJin Cha
+
+
 import torch
 import torch.nn as nn
 #import torch.nn as nn
